@@ -1,0 +1,5 @@
+$(document).ready(function(){
+    $('.header').html(`<div class="header_left"><a href="/Users/bcm/Desktop/Dojo_Assignments/Web_Fundamentals/BCMGlass/index.html"><p>Gallary</p></a><a href="/Users/bcm/Desktop/Dojo_Assignments/Web_Fundamentals/BCMGlass/artist/index.html"><p>Artist</p></a></div><div class="header_right"><a href="/Users/bcm/Desktop/Dojo_Assignments/Web_Fundamentals/BCMGlass/available/index.html"><p>Available</p></a><a href="/Users/bcm/Desktop/Dojo_Assignments/Web_Fundamentals/BCMGlass/contact/index.html"><p>Contact</p></a><p>Cart</p></div>`);
+    $('.logo').html(`<a href="/Users/bcm/Desktop/Dojo_Assignments/Web_Fundamentals/BCMGlass/index.html"><img src="/Users/bcm/Desktop/Dojo_Assignments/Web_Fundamentals/BCMGlass/images/reticello.jpg" alt="none"></a>`);
+    $('.footer').html(`<a href="https://www.instagram.com/bcmglass/"><img src="/Users/bcm/Desktop/Dojo_Assignments/Web_Fundamentals/BCMGlass/images/ig2.png" alt="none"></a><a href="mailto:bcmglass@gmail.com"><img src="/Users/bcm/Desktop/Dojo_Assignments/Web_Fundamentals/BCMGlass/images/email.png" alt="none"></a>`);
+});

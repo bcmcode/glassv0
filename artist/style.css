@@ -1,0 +1,29 @@
+.main{
+    width: 540px;
+    min-height: 1200px;
+    margin-top: 40px;
+    display: block;
+    margin: auto;
+    padding-bottom: 40px;
+}
+
+    .main img{
+        display: block;
+        margin: auto;
+        margin-bottom: 40px;
+        margin-top: 40px;
+        width: 500px;
+    }
+
+    .main h2{
+        color: white;
+        margin-bottom: 24px;
+    }
+
+    .main p{
+        width: 94%;
+        color: gray;
+        display: block;
+        margin: auto;
+        margin-bottom: 24px;
+    }
